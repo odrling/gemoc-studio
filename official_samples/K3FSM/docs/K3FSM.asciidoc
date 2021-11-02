@@ -51,7 +51,7 @@ Create and start the corresponding modeling workbench:
 
 - Run  ->  Run Configurations... -> Eclipse application > new
 
-In the second Eclipse instance.
+In the modeling workbench (the second Eclipse instance).
 
 Install sample models for the language:
 

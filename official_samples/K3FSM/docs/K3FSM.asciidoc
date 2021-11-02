@@ -144,7 +144,7 @@ Menu _File -> New -> Ecore Modeling Project then in the template wizard of the x
 
 ==== Add Semantics operations
 
-* Right click on the xdsml project; _GEMOC Language_ ->  _Create DSA Project for Language_. Next -> Select "User Ecore Basic Aspect"; Set "Aspet file name" to "K3FSMAspects".
+* Right click on the xdsml project; _GEMOC Language_ ->  _Create DSA Project for Language_. Next -> Select "User Ecore Basic Aspect"; Set "Aspect file name" to "K3FSMAspects".
 
     ** in the .dsl file, fix the _k3_ entry by removing `qualified.class.name,` from the value.
     ** edit the k3fsmAspect.xtend file and add the following methods in the aspects:

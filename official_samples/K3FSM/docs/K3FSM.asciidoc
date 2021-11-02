@@ -82,7 +82,7 @@ image::images/K3FSM/K3FSM_classes.png["K3FSM Metamodel classes and K3 aspects cl
 For simplification of the diagrams, the associations that doesn't represent a containment, are represented as attributes rather than links.
 ====
 
-The elements with a green bullet in <<img-K3FSM_classes>> are par of the semantic domain. This is the part of the model that will change  during the execution of a FSM model. Note that some attributes (such as _consummedString_) may not be  mandatory for correct execution but provide nice user feedback in the animation. 
+The elements with a green bullet in <<img-K3FSM_classes>> are part of the semantic domain. This is the part of the model that will change  during the execution of a FSM model. Note that some attributes (such as _consummedString_) may not be  mandatory for correct execution but provide nice user feedback in the animation. 
 
 
 [[K3FSM-example-DIY]]

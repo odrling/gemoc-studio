@@ -61,7 +61,7 @@ Run (actually debug ;-) ) one of the provided model using the predefined launch 
 
 - Run  ->  Debug Configurations... -> Executable model with GEMOC Java engine -> one of the K3FSM launch conf such as _K3FSM - TwostatesUpcast(abababa)_.
 
-You can change the string passed to the model in the launch configuration (in the _Model initialization argutments_ field).
+You can change the string passed to the model in the launch configuration (in the _Model initialization arguments_ field).
 
 
 === Language structure overview
